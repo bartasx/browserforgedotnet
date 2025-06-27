@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GitLabDefaultAccount">
+    <option name="defaultAccountId" value="8cc8a950-deb1-41ca-994d-70ba970dc054" />
+  </component>
+  <component name="KubernetesApiProvider">{}</component>
+</project>
