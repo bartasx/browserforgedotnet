@@ -425,5 +425,3 @@ This .NET library is a port of the original Python [BrowserForge](https://github
 - [ ] Machine learning-based anomaly detection improvements
 
 ---
-
-**Made with ❤️ by the BrowserForge team**
